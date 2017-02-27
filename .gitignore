@@ -4,7 +4,8 @@ unettestbuild*
 *.zip
 Library
 obj
-
+Temp
+.gitignore
 
 # Windows image file caches
 Thumbs.db
