@@ -5,9 +5,12 @@ unettestbuild*
 Library
 obj
 Temp
-.gitignore
 Assets.bak
 *.bak
+*.unitypackage
+Assets/Unity-Logs-Viewer
+Assets/Reporter
+.gitignore
 
 # Windows image file caches
 Thumbs.db
