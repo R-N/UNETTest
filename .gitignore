@@ -6,6 +6,8 @@ Library
 obj
 Temp
 .gitignore
+Assets.bak
+*.bak
 
 # Windows image file caches
 Thumbs.db
